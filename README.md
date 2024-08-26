@@ -20,7 +20,7 @@ _MyStore dataset is_ [here](https://github.com/teguhmprayoga/portoSQL/tree/main/
    - Extract key transactional metrics such as monthly summaries, largest transactions, and top product categories based on sales volume.
 
 ## Task Explanation
-Please find [**Queries here**](https://github.com/teguhmprayoga/portoSQL/blob/main/CodeSQL.sql)
+_Please find [**Queries here**](https://github.com/teguhmprayoga/portoSQL/blob/main/CodeSQL.sql)_
 1. Number of Columns in the products Table
    - This query retrieves the list of columns present in the products table to understand its schema and structure.
 2. Number of Rows in the products Table

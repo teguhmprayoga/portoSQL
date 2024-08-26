@@ -5,7 +5,7 @@ In the rapidly growing e-commerce industry, analyzing transaction data is crucia
 The following SQL queries were developed to perform various analytical tasks, including counting records, identifying top buyers, detecting inactive users, and analyzing product sales. These queries serve as foundational tools for data-driven decision-making in the e-commerce domain.
 
 ## Data Source
-MyStore dataset is [here](https://github.com/teguhmprayoga/portoSQL/tree/main/data)
+_MyStore dataset is_ [here](https://github.com/teguhmprayoga/portoSQL/tree/main/data)
 
 ## Objectives
 1. Data Exploration and Cleaning:
@@ -20,7 +20,7 @@ MyStore dataset is [here](https://github.com/teguhmprayoga/portoSQL/tree/main/da
    - Extract key transactional metrics such as monthly summaries, largest transactions, and top product categories based on sales volume.
 
 ## Task Explanation
-Queries here:
+Please find [**Queries here**](https://github.com/teguhmprayoga/portoSQL/blob/main/CodeSQL.sql)
 1. Number of Columns in the products Table
    - This query retrieves the list of columns present in the products table to understand its schema and structure.
 2. Number of Rows in the products Table

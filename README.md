@@ -4,6 +4,9 @@ In the rapidly growing e-commerce industry, analyzing transaction data is crucia
 
 The following SQL queries were developed to perform various analytical tasks, including counting records, identifying top buyers, detecting inactive users, and analyzing product sales. These queries serve as foundational tools for data-driven decision-making in the e-commerce domain.
 
+## Data Source
+MyStore dataset is [here](https://github.com/teguhmprayoga/portoSQL/tree/main/data)
+
 ## Objectives
 1. Data Exploration and Cleaning:
    - Identify the structure and content of the products and orders tables.

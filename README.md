@@ -1,4 +1,5 @@
 # Portfolio SQL
+Title: E-Commerce Data Analysis with SQL: Insights and Patterns from MyStore 
 ## Background
 In the rapidly growing e-commerce industry, analyzing transaction data is crucial for understanding customer behavior, optimizing product offerings, and improving overall business operations. This project involves working with a comprehensive dataset from MyStore, an e-commerce platform where users can act as both buyers and sellers. The dataset consists of four main tables: '**users**', '**products**', '**orders**', and '**order_details**'. Each table contains key information that provides insights into user behavior, product performance, and transaction trends.
 
